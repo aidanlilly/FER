@@ -7,7 +7,7 @@ This project demonstrates real-time face landmark detection and emotion recognit
 - **Landmark Detection**: Identifies 68 facial landmarks for each detected face.
 - **Emotion Recognition**: Predicts the dominant emotion for each face using DeepFace.
 - **Real-Time Processing**: Works with live webcam input or video files, processing every 4th frame.
-- 
+
 ## Dependencies
 
 To ensure the project runs smoothly, the following dependencies are required:
