@@ -2,6 +2,12 @@
 
 This project demonstrates real-time face landmark detection and emotion recognition using **dlib** and **DeepFace**. It processes a video file or webcam feed and performs face detection, landmark annotation, and emotion prediction on every frame.
 
+Below is a demonstration of the project in action:
+
+![Face Landmark and Emotion Detection Demo](demo_image.png)
+
+*Image showcasing the annotated facial landmarks and predicted emotion in a video frame.*
+
 ## Features
 - **Face Detection**: Detects faces using dlib's pre-trained frontal face detector.
 - **Landmark Detection**: Identifies 68 facial landmarks for each detected face.
