@@ -6,7 +6,7 @@ Below is a demonstration of the project in action:
 
 ![Face Landmark and Emotion Detection Demo](examples/jfk.png)
 
-*Image showcasing the annotated facial landmarks and predicted emotion in a video frame.*
+*Image showcasing the annotated facial landmarks and predicted emotion.*
 
 ## Features
 - **Face Detection**: Detects faces using dlib's pre-trained frontal face detector.
