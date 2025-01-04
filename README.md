@@ -4,7 +4,7 @@ This project demonstrates real-time face landmark detection and emotion recognit
 
 Below is a demonstration of the project in action:
 
-![Face Landmark and Emotion Detection Demo](demo_image.png)
+![Face Landmark and Emotion Detection Demo](examples/jfk.png)
 
 *Image showcasing the annotated facial landmarks and predicted emotion in a video frame.*
 
